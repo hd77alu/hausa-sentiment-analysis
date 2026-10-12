@@ -1,14 +1,2 @@
-accelerate
-datasets
-gensim
 gradio
-huggingface_hub
-matplotlib
-numpy
-pandas
-psutil
 scikit-learn==1.6.1
-seaborn
-tensorflow
-torch
-transformers
