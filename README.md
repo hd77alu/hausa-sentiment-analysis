@@ -1,9 +1,3 @@
----
-title: hausa-sentiment-analysis
-app_file: src/app.py
-sdk: gradio
-sdk_version: 6.30.0
----
 # Hausa Sentiment Analysis
 
 Sentiment analysis for Hausa-language social-media text using the
@@ -39,9 +33,7 @@ The complete experimental workflow is available in
 
 ## Requirements
 
-- Python 3.12 (recommended; Python 3.14 may require compiling some scientific
-  packages from source)
-- `pip`
+- Python 3.12 (recommended)
 - A Jupyter environment for running the notebook
 - Optional: a CUDA-enabled installation of PyTorch or TensorFlow for
   hardware-accelerated experiments
@@ -104,8 +96,7 @@ dataset on Hugging Face.
 
 ## Run the App
 
-Gradio is listed as a dependency and the web interface is implemented in
-`src/app.py`. To launch it:
+We are using Gradio web interface for this project. To launch it:
 
 ```bash
 python src/app.py
