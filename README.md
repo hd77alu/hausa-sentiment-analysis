@@ -6,8 +6,6 @@ machine-learning and neural-network approaches, including TF-IDF word and
 character features, recurrent models, fastText embeddings, and a multilingual
 Transformer model.
 
-The best saved model in this repository is a hybrid TF-IDF + linear SVM
-classifier stored in [`model/hybrid_tfidf_svm_model.pkl`](./model/hybrid_tfidf_svm_model.pkl).
 The complete experimental workflow is available in
 [`notebook/hausa_sentiment_analysis.ipynb`](./notebook/hausa_sentiment_analysis.ipynb).
 
