@@ -1,13 +1,14 @@
 # Hausa Sentiment Analysis
 
-Sentiment analysis for Hausa-language social-media text using the
-Masakhane AfriSenti Hausa dataset. The project experiments with classical
-machine-learning and neural-network approaches, including TF-IDF word and
+The sentiment analysis project uses Hausa-language social-media text from the
+Masakhane AfriSenti Hausa dataset. We experimented with various approaches, including classical
+machine-learning and neural-network approaches, such as TF-IDF word and
 character features, recurrent models, fastText embeddings, and a multilingual
 Transformer model.
 
-The complete experimental workflow is available in
+- The complete experimental workflow is available in
 [`notebook/hausa_sentiment_analysis.ipynb`](./notebook/hausa_sentiment_analysis.ipynb).
+- The deployed app is available via Render at: [https://hausa-sentiment-analysis-app.onrender.com/](url)
 
 ## Repository structure
 
