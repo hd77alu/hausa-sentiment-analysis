@@ -13,7 +13,7 @@ Transformer model.
 ## Repository structure
 
 ```text
-.
+├── hausa-sentiment-analysis/
 ├── dataset/
 │   ├── train.csv
 │   ├── validation.csv
