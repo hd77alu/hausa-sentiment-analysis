@@ -8,7 +8,7 @@ Transformer model.
 
 - The complete experimental workflow is available in
 [`notebook/hausa_sentiment_analysis.ipynb`](./notebook/hausa_sentiment_analysis.ipynb).
-- The deployed app is available via Render at: [https://hausa-sentiment-analysis-app.onrender.com/](url)
+- The deployed app is available via Render at: [https://hausa-sentiment-analysis-app.onrender.com/](https://hausa-sentiment-analysis-app.onrender.com/)
 
 ## Repository structure
 
