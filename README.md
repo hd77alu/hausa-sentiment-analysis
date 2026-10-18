@@ -8,7 +8,7 @@ character features, recurrent models, fastText embeddings, and a multilingual
 Transformer model.
 
 - Complete experiments: [`notebook/hausa_sentiment_analysis.ipynb`](./notebook/hausa_sentiment_analysis.ipynb)
-- Deployed application: [hausa-sentiment-analysis-app.onrender.com](https://hausa-sentiment-analysis-app.onrender.com/)
+- Deployed application: [https://hausa-sentiment-analysis-app.onrender.com](https://hausa-sentiment-analysis-app.onrender.com)
 
 ## Problem Statement
 
